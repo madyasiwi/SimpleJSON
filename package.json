@@ -1,0 +1,13 @@
+{
+  "name": "com.unity.simplejson",
+  "version": "1.20200919.0",
+  "displayName": "SimpleJSON",
+  "description": "https://github.com/Bunny83/SimpleJSON",
+  "type": "library",
+  "unity": "2018.4",
+  "author": {
+    "url": "https://github.com/Bunny83/SimpleJSON"
+  },
+  "license": "MIT",
+  "licenseUrl": "https://github.com/Bunny83/SimpleJSON/blob/master/LICENSE"
+}
