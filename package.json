@@ -6,8 +6,7 @@
   "type": "library",
   "unity": "2018.4",
   "author": {
+    "name": "Markus Göbel (Bunny83)",
     "url": "https://github.com/Bunny83/SimpleJSON"
-  },
-  "license": "MIT",
-  "licenseUrl": "https://github.com/Bunny83/SimpleJSON/blob/master/LICENSE"
+  }
 }
